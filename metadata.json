@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCraft - Professional Voice Generator",
+  "description": "A professional text-to-speech application that generates studio-quality audio with a variety of voice characters and emotions. It supports multiple languages and advanced audio controls for producing natural human-like speech for videos, podcasts, ads, and audiobooks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
